@@ -77,17 +77,7 @@
 </p>
 <p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <h3 align="center">awooochy </h3>
-<br>
 <h3 align="center">Awooochy#3165 </h3>
-</div>
-<br>
-<div>
-<br>
-<div align="center"><p>
-
-
-</div>
-<hr>
-</div>
+<img src="https://i.imgur.com/dzBWp38.gif" align="right">
 </div>
 </body>
