@@ -9,6 +9,7 @@
 </div>
 <br>
 <div>
+<br>
 <p><b>(っ◔◡◔)っ ♥ ___________________________________________________________________________________________________________________________________ ♥<br></b></p>
 <h2 align="center">𝙈𝙔 𝘽𝙄𝙊</h2>
 <img src="https://i.imgur.com/PBBPwQy.gif" align="right">
@@ -32,6 +33,7 @@
 <li>
 <b>Studies:</b> GraphicDesign / UnityGameDev / GameMakerDev / AssistedPrePrinting / Serigraphy
 </li>
+<br>
 <br>
 <br>
 <br>
@@ -65,6 +67,7 @@
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/mobile.svg" height="35px" style="vertical-align:top margin:6px 4px" />
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
 </p>
+<br>
 <br>
 <br>
 <br>
