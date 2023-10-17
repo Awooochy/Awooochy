@@ -78,6 +78,22 @@
 <p align="center"><a href="" target="_blank"><img src="https://img.shields.io/badge/%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <h3 align="center">awooochy </h3>
 <h3 align="center">Awooochy#3165 </h3>
-<img src="https://i.imgur.com/dzBWp38.gif" align="right">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="left">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="center">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="right">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="center">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="left">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="center">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="right">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="center">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="left">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="center">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="right">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="center">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="left">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="center">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="right">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="center">
+<img src="https://i.imgur.com/NIUWlwV.gif" align="left">
 </div>
 </body>
