@@ -12,7 +12,7 @@
 <br>
 <p><b>(っ◔◡◔)っ ♥ _______________________________________________________________________________________________________________________________ ♥<br></b></p>
 <h2 align="center">𝙈𝙔 𝘽𝙄𝙊</h2>
-<img src="https://i.imgur.com/dzBWp38.gif" align="right">
+<img src="https://i.imgur.com/PBBPwQy.gif" align="right">
 <li>
 <b>Name:</b> Awooochy>
 <li>
