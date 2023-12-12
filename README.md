@@ -28,7 +28,7 @@
 <b>Gender:</b> Simply call me Awo
 </li>
 <li>
-<b>Hobbys:</b> Cooking / Programming / Modding / CheatDev / DesignUI / Drawing
+<b>Hobbys:</b> Gaming / Programming / Modding / Cosplay / Drawing / Cooking sweet stuff
 </li>
 <li>
 <b>Studies:</b> GraphicDesign / UnityGameDev / GameMakerDev / AssistedPrePrinting / Serigraphy
