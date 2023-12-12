@@ -31,7 +31,7 @@
 <b>Hobbys:</b> Gaming / Programming / Modding / Cosplay / Drawing / Cooking sweet stuff
 </li>
 <li>
-<b>Studies:</b> GraphicDesign / UnityGameDev / GameMakerDev / AssistedPrePrinting / Serigraphy
+<b>Studies:</b> GraphicDesign / UnityGameDev / AssistedPrePrinting / Serigraphy
 </li>
 <br>
 <br>
