@@ -14,7 +14,7 @@
 <h2 align="center">𝙈𝙔 𝘽𝙄𝙊</h2>
 <img src="https://i.imgur.com/PBBPwQy.gif" align="right">
 <li>
-<b>Name:</b> Awooochy>
+<b>Name:</b> Awooochy
 <li>
 <b>Where I am from?:</b> Catalunya
 </li>
