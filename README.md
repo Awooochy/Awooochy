@@ -47,6 +47,7 @@
 <p>
 </div>
 <div>
+<img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/dev/tools/jetbrains_rider%403x.png" alt="visualstudio" width="160" hight="50">
 <img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/dev/tools/visualstudio%403x.png" alt="visualstudio" width="160" hight="50">
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
 </p>
