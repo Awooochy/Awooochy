@@ -25,7 +25,7 @@
 <b>Stuff I hate:</b> Politics / Drama / Skids lmao / Python / SPAM / TikTok 
 </li>
 <li>
-<b>Gender:</b> Simply call me Awo
+<b>Gender:</b> Male
 </li>
 <li>
 <b>Hobbys:</b> Gaming / Programming / Modding / Cosplay / Drawing / Cooking sweet stuff
