@@ -19,7 +19,7 @@
 <b>Where I am from?:</b> Catalunya
 </li>
 <li>
-<b>Stuff I Love:</b> MyGF / MyDog / Anime / VRChat / VisualStudio / C# / Design / Games / Music
+<b>Stuff I Love:</b> MyDog / Anime / VRChat / VisualStudio / C# / Design / Games / Music
 </li>
 <li>
 <b>Stuff I hate:</b> Politics / Drama / Skids lmao / Python / SPAM / TikTok 
