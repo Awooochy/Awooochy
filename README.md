@@ -28,7 +28,7 @@
 <b>Gender:</b> Male
 </li>
 <li>
-<b>Hobbys:</b> Gaming / Programming / Modding / Cosplay / Drawing / Cooking sweet stuff
+<b>Hobbys:</b> Gaming / Programming / Modding / Drawing / Bakery
 </li>
 <li>
 <b>Studies:</b> GraphicDesign / UnityGameDev / AssistedPrePrinting / Serigraphy
