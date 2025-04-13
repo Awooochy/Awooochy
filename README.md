@@ -19,7 +19,7 @@
 <b>Where I am from?:</b> Catalunya
 </li>
 <li>
-<b>Stuff I Love:</b> MyDog / Anime / VRChat / VisualStudio / C# / Design / Games / Music
+<b>Stuff I Love:</b> My dog / Anime / VRChat / Java / C# / Design / Games / Music
 </li>
 <li>
 <b>Stuff I hate:</b> Politics / Drama / Skids lmao / Python / SPAM / TikTok 
@@ -28,10 +28,10 @@
 <b>Gender:</b> Male
 </li>
 <li>
-<b>Hobbys:</b> Gaming / Programming / Modding / Drawing / Bakery
+<b>Hobbys:</b> Gaming / Programming / Writing / Drawing / Bakery
 </li>
 <li>
-<b>Studies:</b> GraphicDesign / UnityGameDev / AssistedPrePrinting / Serigraphy
+<b>Studies:</b> GraphicDesign / UnityGameDev / AssistedPrePrinting / Serigraphy / WebAppDevelopment
 </li>
 <br>
 <br>
@@ -48,7 +48,6 @@
 </div>
 <div>
 <img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/dev/tools/jetbrains_rider%403x.png" alt="rider" height="35px">
-  <img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/dev/tools/jetbrains_idea%403x.png" alt="rider" height="35px">
 <img src="https://github.com/SonGorLick/ColoredBadges/blob/master/png/dev/tools/visualstudio%403x.png" alt="visualstudio" width="160" hight="50">
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/dev/unity.svg" height="35px" style="vertical-align:top margin:6px 4px"/>
 </p>
